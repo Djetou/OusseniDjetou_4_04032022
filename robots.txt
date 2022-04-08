@@ -5,4 +5,4 @@ Disallow: /img/
 Disallow: /includes/
 Disallow: /js/
 
-Sitemap: https://djetou.github.io/OusseniDjetou_4_04032022/sitemap.xml
+Sitemap: file:///C:/Users/Administrateur/Documents/OusseniDjetou_4_04032022/sitemap.xml
